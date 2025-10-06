@@ -1,0 +1,23 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "library-management-system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joni7679/library-management-system.git"
+  },
+  "author": "joni halder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joni7679/library-management-system/issues"
+  },
+  "homepage": "https://github.com/joni7679/library-management-system#readme",
+  "devDependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
